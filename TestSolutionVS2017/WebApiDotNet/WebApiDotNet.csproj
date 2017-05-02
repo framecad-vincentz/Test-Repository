@@ -181,9 +181,11 @@
     <Compile Include="Authentication\AddChallengeOnUnauthorizedResult.cs" />
     <Compile Include="Authentication\AuthenticationFailureResult.cs" />
     <Compile Include="Authentication\BasicAuthenticationAttribute.cs" />
+    <Compile Include="Authentication\BasicAuthentication2Attribute.cs" />
     <Compile Include="Authentication\HttpAuthenticationChallengeContextExtensions.cs" />
     <Compile Include="Authentication\IdentityBasicAuthenticationAttribute.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\QSSContactController.cs" />
     <Compile Include="Controllers\Todo2Controller.cs" />
     <Compile Include="Controllers\TodoController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />

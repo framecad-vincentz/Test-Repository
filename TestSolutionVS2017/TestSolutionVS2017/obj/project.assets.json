@@ -9834,10 +9834,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\test-repository\\TestSolutionVS2017\\TestSolutionVS2017\\WebApiDotNetCore.csproj",
+      "projectUniqueName": "D:\\Projects\\GitHub\\Test-Repository\\TestSolutionVS2017\\TestSolutionVS2017\\WebApiDotNetCore.csproj",
       "projectName": "WebApiDotNetCore",
-      "projectPath": "D:\\Projects\\test-repository\\TestSolutionVS2017\\TestSolutionVS2017\\WebApiDotNetCore.csproj",
-      "outputPath": "D:\\Projects\\test-repository\\TestSolutionVS2017\\TestSolutionVS2017\\obj\\",
+      "projectPath": "D:\\Projects\\GitHub\\Test-Repository\\TestSolutionVS2017\\TestSolutionVS2017\\WebApiDotNetCore.csproj",
+      "outputPath": "D:\\Projects\\GitHub\\Test-Repository\\TestSolutionVS2017\\TestSolutionVS2017\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

@@ -8,7 +8,7 @@ using WebApiDotNet.Authentication;
 
 namespace WebApiDotNet.Controllers
 {
-    [IdentityBasicAuthentication]
+    [BasicAuthentication]
     public class Todo2Controller : ApiController
     {
         LocalDataContext localDataContext = new LocalDataContext();
