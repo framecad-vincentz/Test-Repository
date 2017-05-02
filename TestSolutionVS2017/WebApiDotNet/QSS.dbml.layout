@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QSS">
+  <DataContextMoniker Name="/QSSDataContext" />
+  <nestedChildShapes>
+    <classShape Id="1c8e24a2-0aa5-41fe-b153-0e06075ea4e6" absoluteBounds="0.5, 0.5, 2, 5.4246240234375">
+      <DataClassMoniker Name="/QSSDataContext/Contact" />
+      <nestedChildShapes>
+        <elementListCompartment Id="727f0dbe-2cfb-4d2a-ae43-ad46a5192f1c" absoluteBounds="0.515, 0.96, 1.9700000000000002, 4.8646240234375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="80171ff3-df5f-492a-9b5d-386ad1e0170c" absoluteBounds="3.125, 0.5, 2, 4.4631168619791666">
+      <DataClassMoniker Name="/QSSDataContext/Account" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fde4146e-154e-4b99-8565-3e55c1eb40b9" absoluteBounds="3.14, 0.96, 1.9700000000000002, 3.903116861979167" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.125 : 2.73155843098958); (2.5 : 2.73155843098958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QSSDataContext/Account/Account_Contact" />
+      <nodes>
+        <classShapeMoniker Id="80171ff3-df5f-492a-9b5d-386ad1e0170c" />
+        <classShapeMoniker Id="1c8e24a2-0aa5-41fe-b153-0e06075ea4e6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.5 : 1.55327921549479); (3.125 : 1.55327921549479)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QSSDataContext/Contact/Contact_Account" />
+      <nodes>
+        <classShapeMoniker Id="1c8e24a2-0aa5-41fe-b153-0e06075ea4e6" />
+        <classShapeMoniker Id="80171ff3-df5f-492a-9b5d-386ad1e0170c" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,9 @@
+D:\Projects\TestSolutionVS2017\TestSolutionVS2017\bin\Debug\netcoreapp1.1\WebApiDotNetCore.deps.json
+D:\Projects\TestSolutionVS2017\TestSolutionVS2017\bin\Debug\netcoreapp1.1\WebApiDotNetCore.runtimeconfig.json
+D:\Projects\TestSolutionVS2017\TestSolutionVS2017\bin\Debug\netcoreapp1.1\WebApiDotNetCore.runtimeconfig.dev.json
+D:\Projects\TestSolutionVS2017\TestSolutionVS2017\obj\Debug\netcoreapp1.1\WebApiDotNetCore.csprojResolveAssemblyReference.cache
+D:\Projects\TestSolutionVS2017\TestSolutionVS2017\obj\Debug\netcoreapp1.1\WebApiDotNetCore.AssemblyInfo.cs
+D:\Projects\TestSolutionVS2017\TestSolutionVS2017\bin\Debug\netcoreapp1.1\WebApiDotNetCore.dll
+D:\Projects\TestSolutionVS2017\TestSolutionVS2017\bin\Debug\netcoreapp1.1\WebApiDotNetCore.pdb
+D:\Projects\TestSolutionVS2017\TestSolutionVS2017\obj\Debug\netcoreapp1.1\WebApiDotNetCore.dll
+D:\Projects\TestSolutionVS2017\TestSolutionVS2017\obj\Debug\netcoreapp1.1\WebApiDotNetCore.pdb
